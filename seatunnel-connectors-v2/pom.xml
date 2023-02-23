@@ -69,6 +69,7 @@
         <module>connector-tdengine</module>
         <module>connector-selectdb-cloud</module>
         <module>connector-hbase</module>
+        <module>connector-amazon-keyspaces</module>
     </modules>
 
     <dependencyManagement>
